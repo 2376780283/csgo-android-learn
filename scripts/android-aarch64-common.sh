@@ -6,7 +6,7 @@
 
 ANDROID_NDK_R20B_SHA256="8381c440fe61fcbb01e209211ac01b519cd6adf51ab1c2281d5daad6ca4c8c8c"
 
-ANDROID_WAF_TARGETS="tier0,vstdlib,steam_api,togl,engine,matchmaking,filesystem_stdio,inputsystem,vphysics,materialsystem,datacache,studiorender,soundemittersystem,vscript,vguimatsurface,vgui2,scaleformui,shaderapidx9,stdshader_dx9,localize,scenefilecache,vaudio_minimp3,vaudio_opus,launcher,client,server"
+ANDROID_WAF_TARGETS="tier0,vstdlib,steam_api,togl,engine,matchmaking,filesystem_stdio,inputsystem,vphysics,materialsystem,datacache,studiorender,soundemittersystem,vscript,vguimatsurface,vgui2,scaleformui,shaderapidx9,stdshader_dx9,localize,scenefilecache,vaudio_minimp3,vaudio_opus,launcher,ServerBrowser,client,server"
 
 ANDROID_REQUIRED_LIBRARIES="
 libSDL2.so
