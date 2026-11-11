@@ -55,7 +55,7 @@ def build(bld):
 
 	defines = []
 
-	libs = ['tier0','interfaces','vgui_controls','mathlib','tier1','tier2','tier3','vstdlib','steam_api']
+	libs = ['tier0','interfaces','vgui_controls','mathlib','tier1','tier2','tier3','vstdlib','steam_api','dmxloader']
 
 	install_path = bld.env.LIBDIR
 
